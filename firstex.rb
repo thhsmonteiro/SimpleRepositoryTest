@@ -1,3 +1,8 @@
+
+20.times do |contador| print "#{contador}" end
+
+
+
 puts "----------library----------"
 
 puts "Enter your fullname: "
