@@ -1,17 +1,4 @@
 
-# puts "Enter you whatsapp number: "
-# @number = gets.chomp
-# def match(number)
-#     @number -= (/^(1[1-9]|[4689][0-9]|2[12478]|3([1-5]|[7-8])|5([13-5])|7[193-7])9[0-9]{8}$/)
-# end
-#^(1[1-9]|[4689][0-9]|2[12478]|3([1-5]|[7-8])|5([13-5])|7[193-7])9[0-9]{8}$
-
-# if @number.match
-#     print "Válido"
-# else
-#     print "Invalido"
-# end
-
 puts "Digite seu numero de whatsapp no formato xxxxxxxxxxx: "
 whatsapp = gets.chomp.to_s
 
